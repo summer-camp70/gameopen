@@ -1,0 +1,6 @@
+{
+  "name": "DirectoHub Registry & Credential Manager",
+  "description": "Complete directory management portal with member registration controls, payment verification auditing, digital ID cards, and password security administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
